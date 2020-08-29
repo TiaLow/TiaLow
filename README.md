@@ -1,5 +1,5 @@
-->## Hi there, I'm Tia! ✌️<-
-->Pronouns: she / her<-
+## Hi there, I'm Tia! :v:
+*Pronouns: she / her*
 ***
 ***
 
