@@ -12,25 +12,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 **I’m currently working on:** finishing my education at Code Fellows and carving out time for personal projects.
+:pencil2: **I’m currently working on:** finishing my education at Code Fellows and carving out time for personal projects.
 <br>
 <br>
-🌱 **I’m currently learning:** how to red, green, refactor.
+:books: **I’m currently learning:** how to red, green, refactor.
 <br>
 <br>
- 💬 **Ask me about:** JavaScript's craziness, flexbox vs grid, how to choose a whiteboard app (by arrow-drawing abilities), binary trees, fermentation, gardening, living out of a backpack, how the natural and technological worlds can be woven together...
+:speech_balloon: **Ask me about:** JavaScript's craziness, flexbox vs grid, how to choose a whiteboard app (by arrow-drawing abilities), binary trees, fermentation, gardening, living out of a backpack, how the natural and technological worlds can be woven together...
  <br>
  <br>
- ⚡ **Fun fact:** I'm a black belt in Taekwondo. 
+ :rainbow: **Fun fact:** I'm a black belt in Taekwondo. 
  <br>
  <br>
- 📫 **How to reach me:** <a href="https://www.linkedin.com/in/tia-low/">Linkedin</a>  |  <lowtia@gmail.com>
+ :mailbox_with_mail: **How to reach me:** <a href="https://www.linkedin.com/in/tia-low/">Linkedin</a>  |  <lowtia@gmail.com>
  <br>
  <br>
  
  
  <!--
- 📫 How to reach me: <br>
 <a href="https://www.linkedin.com/in/tia-low/"><img src="./img/linked.png" alt="drawing" width="40" height="40"/></a>
 
 <a href="https://www.linkedin.com/in/tia-low/"><img src="./img/google.png" alt="drawing" width="40" height="40"/></a>
