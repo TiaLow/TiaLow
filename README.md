@@ -1,4 +1,5 @@
 ### Hi there, I'm Tia! ✌️
+Pronouns: she / her
 ***
 ***
 
@@ -6,20 +7,23 @@
 **TiaLow/TiaLow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on finishing my education at Code Fellows and carving out time for personal projects.
+
+🔭 **I’m currently working on:** finishing my education at Code Fellows and carving out time for personal projects.
 ***
-🌱 I’m currently learning how to learn!
+🌱 **I’m currently learning:** how to red, green, refactor.
 ***
- 💬 Ask me about JavaScript's craziness, flexbox vs grid, how to choose a whiteboard app (by arrow-drawing abilities), binary trees, fermentation, gardening, living out of a backpack, how the natural and technological worlds can be woven together...
+ 💬 **Ask me about:** JavaScript's craziness, flexbox vs grid, how to choose a whiteboard app (by arrow-drawing abilities), binary trees, fermentation, gardening, living out of a backpack, how the natural and technological worlds can be woven together...
  ***
+ ⚡ **Fun fact:** I'm a black belt in Taekwondo. 
+ ***
+ 📫 **How to reach me:** <br>
+ <lowtia@gmail.com>
+<a href="https://www.linkedin.com/in/tia-low/">Linkedin</a>
+ 
  
  <!--
  📫 How to reach me: <br>
