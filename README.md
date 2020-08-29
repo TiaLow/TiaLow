@@ -1,5 +1,5 @@
--> ## Hi there, I'm Tia! ✌️ <-
--> Pronouns: she / her <-
+->## Hi there, I'm Tia! ✌️<-
+->Pronouns: she / her<-
 ***
 ***
 
@@ -14,13 +14,18 @@ Here are some ideas to get you started:
 
 🔭 **I’m currently working on:** finishing my education at Code Fellows and carving out time for personal projects.
 <br>
+<br>
 🌱 **I’m currently learning:** how to red, green, refactor.
+<br>
 <br>
  💬 **Ask me about:** JavaScript's craziness, flexbox vs grid, how to choose a whiteboard app (by arrow-drawing abilities), binary trees, fermentation, gardening, living out of a backpack, how the natural and technological worlds can be woven together...
  <br>
+ <br>
  ⚡ **Fun fact:** I'm a black belt in Taekwondo. 
  <br>
+ <br>
  📫 **How to reach me:** <a href="https://www.linkedin.com/in/tia-low/">Linkedin</a>  |  <lowtia@gmail.com>
+ <br>
  <br>
  
  
