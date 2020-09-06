@@ -1,16 +1,6 @@
 ## Hi there, I'm Tia! :v:
 *Pronouns: she / her*
 ***
-***
-
-<!--
-**TiaLow/TiaLow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
--->
 
 :pencil2: **I’m currently working on:** finishing my education at Code Fellows and carving out time for personal projects.
 <br>
@@ -27,15 +17,6 @@ Here are some ideas to get you started:
  :mailbox_with_mail: **How to reach me:** <a href="https://www.linkedin.com/in/tia-low/">Linkedin</a>  |  <lowtia@gmail.com>
  <br>
  <br>
- 
- 
- <!--
-<a href="https://www.linkedin.com/in/tia-low/"><img src="./img/linked.png" alt="drawing" width="40" height="40"/></a>
-
-<a href="https://www.linkedin.com/in/tia-low/"><img src="./img/google.png" alt="drawing" width="40" height="40"/></a>
-
-<a href="https://www.instagram.com/lowtia/?hl=en"><img src="./img/insta.png" alt="drawing" width="40" height="40"/></a>
--->
 
 
 ![Tia's github stats](https://github-readme-stats.vercel.app/api?username=TiaLow)
