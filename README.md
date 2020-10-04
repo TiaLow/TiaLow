@@ -21,5 +21,3 @@
 
 ![Tia's github stats](https://github-readme-stats.vercel.app/api?username=TiaLow)
 
-
-**Shoutout [Joe Zabaleta](https://github.com/joseph-zabaleta) for sharing this 'secret' with me!**
