@@ -1,4 +1,4 @@
-## Hi there, I'm Tia! :v:
+## Hi there, I'm Tia!
 *Pronouns: she / her*
 ***
 
