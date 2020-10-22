@@ -2,7 +2,7 @@
 *Pronouns: she / her*
 ***
 
-:pencil2: **I’m currently working on:** refactoring past projects, figuring out how best to practice TDD while working with React Native, and wireframing new projects! 
+:pencil2: **I’m currently working on:** refactoring past projects, wireframing new ones, and honing my TDD skills. 
 <br>
 <br>
 :books: **I’m currently learning:** how to red, green, refactor.
