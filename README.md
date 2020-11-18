@@ -8,7 +8,7 @@
 :books: **I’m fired up about:** TDD and contributing to open source!
 <br>
 <br>
-:speech_balloon: **Ask me about:** how JavaScript exemplifies the combination of logic and creativity, flexbox vs grid, how to choose a whiteboard app (by arrow-drawing abilities), binary trees, fermentation, gardening, living out of a backpack, how the natural and technological worlds can be woven together...
+:speech_balloon: **Ask me about:** how JavaScript exemplifies the combination of logic and creativity, flexbox vs grid, how to choose a whiteboard app (by arrow-drawing abilities), binary trees, how fermentation is also found at the intersection of logic and creativity, gardening, living out of a backpack, how the natural and technological worlds can be woven together...
  <br>
  <br>
  :mailbox_with_mail: **How to reach me:** <a href="https://www.linkedin.com/in/tia-low/">Linkedin</a>  |  <lowtia@gmail.com>
