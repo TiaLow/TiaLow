@@ -13,7 +13,5 @@
  <br>
  :mailbox_with_mail: **How to reach me:** <a href="https://tialow.com/" target="_blank">tialow.com</a>  |  <a href="https://www.linkedin.com/in/tia-low/" target="_blank">Linkedin</a>  |  <lowtia@gmail.com>
  <br>
- <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiaLow)](https://github.com/anuraghazra/github-readme-stats) ![Tia's github stats](https://github-readme-stats.vercel.app/api?username=TiaLow)
+ 
 
